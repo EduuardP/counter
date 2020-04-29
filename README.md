@@ -8,6 +8,9 @@ No se utilizó ninguna libreria externa ni de terceros.
 Se creó un servidor en donde se colocó el codigo de Node para tener acceso a la api de contadores,el servidor solo contiene el código proporcionado por el proyecto git clone https://github.com/jsngonzalez/pruebaDesarrolloWG.git
 
 
+Realizado por: Eduuard Anibal Pinzón Valiente.
+
+
 
 
 
